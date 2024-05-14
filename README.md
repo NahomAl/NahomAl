@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌐 Socials:
+Instagram LinkedIn X
+
+💻 Tech Stack:
+Java C++ Python C# .Net Qt MicrosoftSQLServer MySQL Postgres SQLite MariaDB Figma Arduino Adobe XD Adobe Illustrator Docker Pi-Hole Raspberry Pi
+
+📊 GitHub Stats:
+
